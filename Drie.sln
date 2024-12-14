@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Drie", "Drie\Drie\Drie.csproj", "{3542F65E-1166-4BA2-89BA-CB95B86061C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Drie.Desktop", "Drie\Drie.Desktop\Drie.Desktop.csproj", "{7B052E57-0543-4C03-9B33-FAD44BA90E74}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3542F65E-1166-4BA2-89BA-CB95B86061C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3542F65E-1166-4BA2-89BA-CB95B86061C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3542F65E-1166-4BA2-89BA-CB95B86061C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3542F65E-1166-4BA2-89BA-CB95B86061C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B052E57-0543-4C03-9B33-FAD44BA90E74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B052E57-0543-4C03-9B33-FAD44BA90E74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B052E57-0543-4C03-9B33-FAD44BA90E74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B052E57-0543-4C03-9B33-FAD44BA90E74}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

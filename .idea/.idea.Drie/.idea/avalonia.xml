@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AvaloniaProject">
+    <option name="projectPerEditor">
+      <map>
+        <entry key="Drie/Drie/App.axaml" value="Drie/Drie.Desktop/Drie.Desktop.csproj" />
+        <entry key="Drie/Drie/Views/DataControl.axaml" value="Drie/Drie.Desktop/Drie.Desktop.csproj" />
+        <entry key="Drie/Drie/Views/EditControl.axaml" value="Drie/Drie.Desktop/Drie.Desktop.csproj" />
+        <entry key="Drie/Drie/Views/MailControl.axaml" value="Drie/Drie.Desktop/Drie.Desktop.csproj" />
+        <entry key="Drie/Drie/Views/MainView.axaml" value="Drie/Drie.Browser/Drie.Browser.csproj" />
+        <entry key="Drie/Drie/Views/MainWindow.axaml" value="Drie/Drie.Desktop/Drie.Desktop.csproj" />
+        <entry key="Drie/Drie/Windows/MailWindow.axaml" value="Drie/Drie.Desktop/Drie.Desktop.csproj" />
+      </map>
+    </option>
+  </component>
+</project>

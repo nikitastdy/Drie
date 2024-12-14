@@ -1,0 +1,14 @@
+<UserControl xmlns="https://github.com/avaloniaui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
+             x:Class="Drie.Views.DataControl">
+    <Grid RowDefinitions="*, *">
+        <DataGrid AutoGenerateColumns="True" Name="DriveDg" Grid.Row="0"/>
+        <Button Name="DeleteB" Background="Red" Content="del" Height="30" Width="120" Grid.Row="1" Click="DeleteB_OnClick"/>
+        <Button Name="AddB" Background="Green" Content="add" Height="30" Width="120" Grid.Row="1" Click="AddB_OnClick" Margin="0, 80, 0, 0"/>
+        <Button Name="EditB" Background="Yellow" Content="drive card" Height="30" Width="120" Grid.Row="1" Click="EditB_OnClick" Margin="0, 0, 0, 80"/>
+        <Button Name="ArchiveB" Background="Beige" Content="show archive" Height="30" Width="120" Grid.Row="1" Click="ArchiveB_OnClick" Margin="150, 0, 0, 0"/>
+    </Grid>
+</UserControl>

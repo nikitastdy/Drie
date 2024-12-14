@@ -1,0 +1,55 @@
+<UserControl xmlns="https://github.com/avaloniaui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
+             x:Class="Drie.Views.EditControl">
+    <ScrollViewer>
+        <StackPanel>
+            <StackPanel Name="DriveSp" IsEnabled="True">
+            <Label Content="surname" Height="30" Width="120"/>
+            <TextBox Name="SurnameTb" Height="30" Width="120" Text="{Binding Surname}"/>
+            
+            <Label Content="name" Height="30" Width="120"/>
+            <TextBox Name="NameTb" Height="30" Width="120" Text="{Binding Name}"/>
+            
+            <Label Content="middle name" Height="30" Width="120"/>
+            <TextBox Name="MiddleNameTb" Height="30" Width="120" Text="{Binding Middlename}"/>
+            
+            <Label Content="passport serial" Height="30" Width="120"/>
+            <TextBox Name="PassportSerialTb" Height="30" Width="120" Text="{Binding Passportserial}"/>
+            
+            <Label Content="passport number" Height="30" Width="120"/>
+            <TextBox Name="PassportNumberTb" Height="30" Width="120" Text="{Binding Passportnumber}"/>
+            
+            <Label Content="address" Height="30" Width="120"/>
+            <TextBox Name="AddressTb" Height="30" Width="120" Text="{Binding Address}"/>
+            
+            <Label Content="address life" Height="30" Width="120"/>
+            <TextBox Name="AddressLifeTb" Height="30" Width="120" Text="{Binding Addresslife}"/>
+            
+            <Label Content="company" Height="30" Width="120"/>
+            <TextBox Name="CompanyTb" Height="30" Width="120" Text="{Binding Company}"/>
+            
+            <Label Content="job name" Height="30" Width="120"/>
+            <TextBox Name="JobNameTb" Height="30" Width="120" Text="{Binding Jobname}"/>
+            
+            <Label Content="phone" Height="30" Width="120"/>
+            <TextBox Name="PhoneTb" Height="30" Width="120" Text="{Binding Phone}"/>
+            
+            <Label Content="email" Height="30" Width="120"/>
+            <TextBox Name="EmailTb" Height="30" Width="120" Text="{Binding Email}"/>
+            
+            <Label Content="photo" Height="30" Width="120"/>
+            <TextBox Name="PhotoTb" Height="30" Width="120" Text="{Binding Photo}"/>
+            
+            <Label Content="description" Height="30" Width="120"/>
+            <TextBox Name="DescriptionTb" Height="30" Width="120" Text="{Binding Description}"/>
+            
+            
+            </StackPanel>
+            <Button Name="ConfirmB" Content="confirm" Height="30" Width="120" HorizontalAlignment="Center" Click="ConfirmB_OnClick"/>
+        </StackPanel>
+        
+    </ScrollViewer>
+</UserControl>
