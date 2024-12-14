@@ -1,0 +1,16 @@
+/home/student/RiderProjects/Drie/Drie/Drie/bin/Debug/net8.0/Drie.deps.json
+/home/student/RiderProjects/Drie/Drie/Drie/bin/Debug/net8.0/Drie.runtimeconfig.json
+/home/student/RiderProjects/Drie/Drie/Drie/bin/Debug/net8.0/Drie.dll
+/home/student/RiderProjects/Drie/Drie/Drie/bin/Debug/net8.0/Drie.pdb
+/home/student/RiderProjects/Drie/Drie/Drie/obj/Debug/net8.0/Drie.csproj.AssemblyReference.cache
+/home/student/RiderProjects/Drie/Drie/Drie/obj/Debug/net8.0/Avalonia/Resources.Inputs.cache
+/home/student/RiderProjects/Drie/Drie/Drie/obj/Debug/net8.0/Avalonia/resources
+/home/student/RiderProjects/Drie/Drie/Drie/obj/Debug/net8.0/Drie.GeneratedMSBuildEditorConfig.editorconfig
+/home/student/RiderProjects/Drie/Drie/Drie/obj/Debug/net8.0/Drie.AssemblyInfoInputs.cache
+/home/student/RiderProjects/Drie/Drie/Drie/obj/Debug/net8.0/Drie.AssemblyInfo.cs
+/home/student/RiderProjects/Drie/Drie/Drie/obj/Debug/net8.0/Drie.csproj.CoreCompileInputs.cache
+/home/student/RiderProjects/Drie/Drie/Drie/obj/Debug/net8.0/Avalonia/Drie.dll
+/home/student/RiderProjects/Drie/Drie/Drie/obj/Debug/net8.0/Avalonia/Drie.pdb
+/home/student/RiderProjects/Drie/Drie/Drie/obj/Debug/net8.0/refint/Avalonia/Drie.dll
+/home/student/RiderProjects/Drie/Drie/Drie/obj/Debug/net8.0/Drie.genruntimeconfig.cache
+/home/student/RiderProjects/Drie/Drie/Drie/obj/Debug/net8.0/ref/Drie.dll
